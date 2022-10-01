@@ -1,0 +1,71 @@
+/*
+#form {
+    width: 1536px;
+    height: 722px;
+    background-color: #E3E4E5;
+}
+#outer{
+    width: 500px;
+    background-color: #FFFFFF;
+    margin: auto;
+}
+
+.line{
+    width: 500px;
+    height: 50px;
+    border: #211111 1px solid;
+}
+
+#line1{
+    text-align: center;
+    font-size: 25px;
+}
+!*第二行 用户名*!
+.l2{
+    float: left;
+}
+#l2-1{
+    margin-left: 100px;
+}
+!*第三行*!
+.l3{
+    float: left;
+}
+#l3-1{
+    margin-left: 100px;
+}
+!*第四行*!
+.l4{
+    float: left;
+}
+#l4-1{
+    margin-left: 200px;
+}
+#l4-2{
+    margin-left: 100px;
+}
+*/
+.help-block{
+    color: #5cb85c;
+}
+.err{
+    color: #5cb85c;
+    font-size: 20px;
+    margin-left: -393px;
+    text-align: center;
+}
+.row2{
+    margin-top: 200px;
+}
+.font{
+    font-size: 30px;
+}
+#zhucefont{
+    margin-left: 70px;
+}
+.denglu{
+    margin-left: 240px;
+}
+#shouye{
+    margin-left: 20px;
+}

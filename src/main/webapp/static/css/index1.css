@@ -1,0 +1,396 @@
+#oouter {
+    margin: auto;
+    border: solid 1px black;
+    width: 1510px;
+}
+
+#outer {
+    margin: auto;
+    width: 1200px;
+}
+
+
+
+
+#top {
+    height: 30px;
+    background-color: #E3E4E5;
+}
+
+
+.line {
+    float: left;
+    width: 65px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.line:hover {
+    color: red;
+    cursor: pointer;
+}
+
+#l1 {
+    margin-left: 140px;
+}
+
+#t1 {
+    overflow: hidden;
+    height: 30px;
+    width: 65px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    top: 10px;
+    left: 975px;
+}
+
+#t1:hover {
+    height: 120px;
+    background-color: #FFFFFF;
+}
+
+.t1-1:hover {
+    cursor: pointer;
+    color: red;
+}
+
+#a2 {
+    width: 130px;
+    text-align: right;
+    padding-right: 8px;
+}
+
+#areaAll {
+    float: left;
+    width: 335px;
+}
+
+#t2 {
+    overflow: hidden;
+    height: 30px;
+    width: 65px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    top: 10px;
+    left: 1040px;
+}
+
+#t2:hover {
+    height: 120px;
+    background-color: #FFFFFF;
+}
+
+.t2-1:hover {
+    cursor: pointer;
+    color: red;
+}
+
+#t3 {
+    margin-left: 140px;
+}
+
+.allArea {
+    font-size: 12px;
+    width: 75px;
+}
+
+/*第二层*/
+#top2 {
+    width: 1100px;
+    height: 173px;
+    margin: auto;
+}
+
+.top2-line {
+    float: left;
+}
+
+/*第一大列*/
+#t2-line1 {
+    margin-top: 20px;
+    height: 102px;
+}
+
+
+/*第二大列*/
+#t2-line2 {
+    width: 800px;
+    height: 170px;
+}
+
+.t2-l2-line {
+    float: left;
+
+}
+
+.t2-l2-line#--1 {
+    margin-top: 20px;
+    width: 600px;
+    height: 50px;
+}
+
+#kuang {
+    margin-left: 60px;
+    margin-top: 10px;
+    border: solid 3px #c8121d;
+    width: 520px;
+    height: 30px;
+}
+
+.tmp {
+    float: left;
+}
+
+#tmp-0 {
+    margin-left: 20px;
+    width: 380px;
+    height: 27px;
+    outline: none;
+    border: 0px;
+
+}
+
+#tmp-1 {
+    padding-left: 16px;
+}
+
+/*购物车*/
+.t2-l2-line#--2 {
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+}
+
+#tmp-2 {
+    margin-top: 10px;
+    width: 198px;
+    font-size: 12px;
+    color: red;
+    /*float: left;*/
+}
+
+#gouwunum{
+    width: 25px;
+    background-color: #E1251B;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 16px;
+    position: relative;
+    right: 6px;
+}
+#gouwufont{
+    padding-top: 5px;
+}
+.gouwuhref{
+    color: #E1251B;
+}
+.gouwuche{
+    float: left;
+}
+/*--------*/
+.t2-l2-line#--3 {
+    width: 800px;
+    height: 30px;
+}
+
+#tmp-3 {
+    font-size: 12px;
+    margin-left: 60px
+}
+
+.tmpclass1 {
+    float: left;
+}
+
+.tmpclass1:hover {
+    cursor: pointer;
+    color: red;
+}
+
+
+.t2-l2-line#--4 {
+    margin-left: 35px;
+    margin-top: 30px;
+    width: 800px;
+    height: 50px;
+}
+
+
+.tmpclass2:hover{
+    cursor: pointer;
+    color: red;
+}
+
+.tmpclass2 {
+    font-size: 16px;
+    float: left;
+}
+
+
+
+/*第三大列*/
+#t2-line3 {
+    width: 92px;
+}
+
+/*第三层*/
+#top3 {
+    background-color: #E3E4E5;
+    width: 1200px;
+    height: 595px;
+
+}
+
+/*第三层的每一列*/
+.top3-l{
+    margin-top: 10px;
+    float: left;
+}
+/*第三层的第一列*/
+#t3-l1{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #FFFFFF;
+    width: 190px;
+    height: 470px;
+}
+/*左边一溜字*/
+.t3-l1-font{
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 25px;
+    height: 25px;
+    font-size: 14px;
+}
+.t3-l1-font:hover{
+    background-color: #E3E4E5;
+}
+
+/*第一行字*/
+#t3font1{
+    /*margin-top: 10px;*/
+}
+
+/*第三层的第二列*/
+#t3-l2{
+    width: 590px;
+    height: 470px;
+    overflow: hidden;
+}
+#l2-inner{
+    background-color: red;
+    /*width:2950px;*/
+    width:2000000000px;
+    height: 470px;
+}
+#l2-inner.img{
+    width: 590px;
+    height: 470px;
+}
+
+
+/*第三层的第三列*/
+#t3-l3{
+    width: 200px;
+    height: 470px;
+    overflow: hidden;
+}
+
+#l3-inner1{
+    width: 2000px;
+    height: 470px;
+
+}
+.innner1{
+    float: left;
+}
+
+#inner1-1{
+    margin-right: 8px;
+}
+.t3-l3-pic1{
+    margin-top: 6px;
+    margin-left: 8px;
+    float: top;
+}
+
+
+.t3-l3-pic1 img{
+    width: 185px;
+    height: 150px;
+}
+
+#pic-1{
+    margin-top: 0px;
+}
+#pic-4{
+    margin-top: 0px;
+}
+
+/*第三层的第四列*/
+#t3-l4{
+    height: 470px;
+    width: 200px;
+}
+#t3-l4 img{
+    width: 190px;
+    height: 470px;
+}
+
+
+/*第三层的隐藏层=====================================================*/
+#ycc{
+    width: 1000px;
+    height: 470px;
+    position: absolute;
+    background-color: white;
+    border:#909090 1px solid;
+    display: none;
+    z-index: 100;
+    /*background-color: blue;*/
+
+}
+
+
+
+/*点*/
+#dianceng{
+    width: 590px;
+    height: 470px;
+    /*background-color: red;*/
+    position: absolute;
+    top: 220px;
+    left: 373px;
+}
+.xdian{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #999999;
+    position: relative;
+
+}
+/*箭头*/
+.jiantou{
+    font-size: 40px;
+    width: 40px;
+    height: 52.8px;
+    position: relative;
+}
+#jt1{
+    border-radius: 10px;
+    background-color: rgba(345,344,345,0.5);
+    color: rgb(255,255,255);
+}
+#jt2{
+    border-radius: 10px;
+    background-color: rgba(343,344,345,0.5);
+    color: rgb(377,377,377);
+    /*background-color: green;*/
+}

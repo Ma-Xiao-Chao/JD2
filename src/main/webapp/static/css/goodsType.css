@@ -1,0 +1,49 @@
+.out {
+    /*background-color: #9d9d9d;*/
+}
+
+.in1 {
+    text-align: center;
+    background-color: black;
+    width: 1500px;
+
+}
+
+.in {
+    /*border: black solid 1px;*/
+    width: 180px;
+    height: 270px;
+    margin-top: 20px;
+    margin-left: 100px;
+    float: left;
+}
+.in:hover{
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.pic {
+    /*background-color: #c8121d;*/
+    height: 180px;
+}
+
+.pic img {
+    width: 180px;
+    height: 180px;
+}
+
+.font {
+    /*background-color: #5cb85c;*/
+    /*font-weight: bold;*/
+    text-align: center;
+    height: 50px;
+    color: black;
+
+}
+
+.price {
+    color: #c8121d;
+    height: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+

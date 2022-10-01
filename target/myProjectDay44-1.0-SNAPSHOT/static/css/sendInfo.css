@@ -1,0 +1,87 @@
+.row{
+    width: 1000px;
+    margin-left: 260px;
+}
+.font{
+    font-size: 12px;
+    font-weight: 500;
+}
+.input-group{
+    width: 400px;
+}
+
+.money{
+    font-size: 12px;
+    background-color: rgba(255,255,255,0);
+    margin-left: 20px;
+    border: 1px solid #E3E4E5;
+    font-weight: 500;
+}
+
+.neirong{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.neirong1{
+    width: 200px;
+}
+.neirong2{
+    font-size: 12px;
+    width: 150px;
+    font-weight: 100;
+}
+.neirong3{
+    width: 40px;
+    color: #E33A3D;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 100;
+
+}
+.neirong4{
+    width: 100px;
+    color: #E33A3D;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 100;
+    /*margin-right: 20px;*/
+}
+.neirong5{
+    width: 200px;
+    color: #E33A3D;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.yingfumoney{
+    margin-left: 840px;
+    width: 200px;
+    height: 40px;
+    /*background-color: #E33A3D;*/
+    font-size: 14px;
+    /*color: white;*/
+    text-align: left;
+    line-height: 40px;
+}
+
+.zongji{
+    font-size: 20px;
+    margin-left: 20px;
+    color: #E33A3D;
+}
+.money1{
+    margin-left: 5px;
+    font-size: 20px;
+}
+.submitanniu{
+    margin-left: 855px;
+    width: 130px;
+    height: 40px;
+    background-color: #E33A3D;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+}

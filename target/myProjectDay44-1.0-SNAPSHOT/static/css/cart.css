@@ -1,0 +1,25 @@
+
+.row{
+    width: 1000px;
+    margin-left: 260px;
+}
+.k1{
+    width: 80px;
+}
+.k2{
+    text-align: center;
+    width: 50px;
+}
+.k2-1{
+    width: 20px;
+}
+.picfont{
+    font-size: 12px;
+}
+.k2money{
+    width: 100px;
+    text-align: center;
+}
+.addsub{
+    width: 30px;
+}

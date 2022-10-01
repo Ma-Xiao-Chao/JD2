@@ -1,0 +1,14 @@
+.row{
+    width: 1000px;
+    margin-left: 260px;
+}
+.c1{
+    font-weight: 300;
+}
+.name{
+    width: 200px;
+    font-size: 14px;
+}
+.money{
+    color:#c8121d;
+}

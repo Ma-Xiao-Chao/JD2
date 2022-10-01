@@ -1,0 +1,88 @@
+#outer{
+    width: 1510px;
+    height: 722px;
+    /*background-color: #E3E4E5;*/
+    background-color: #FFFFFF;
+
+}
+.in{
+    float: left;
+}
+#left{
+    background-color: #FFFFFF;
+    margin-left: 100px;
+    width: 500px;
+    height: 722px;
+}
+
+.inpic{
+    float: left;
+    border: #211111 1px solid;
+}
+#pic1 img{
+    margin-bottom: 10px;
+    width: 480px;
+    height: 470px;
+}
+#pic1,#pic2,#pic3{
+    margin-left: 13px;
+    margin-right: 18px;
+}
+
+#pic2 img,#pic3 img,#pic4 img{
+    width: 140px;
+    height: 140px;
+}
+/*右边*/
+#right{
+    background-color: #FFFFFF;
+    width: 800px;
+    height: 722px;
+    margin-left: 20px;
+}
+.in2{
+    float: top;
+}
+.gname{
+
+    height: 60px;
+    font-size: 20px;
+}
+.gprice{
+    height: 20px;
+    color: #c8121d;
+    font-size: 18px;
+}
+.gouwuche{
+    height: 50px;
+    width: 200px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    background-color: #c8121d;
+    line-height: 50px;
+}
+#aCart{
+    text-decoration:none;
+}
+
+
+/*隐藏层*/
+#goodsycc{
+    width: 600px;
+    height: 630px;
+    position: relative;
+    display: none;
+    border: #211111 4px solid;
+    overflow: hidden;
+}
+#goodsycc img{
+    width: 800px;
+    height: 830px;
+}
+
+.err{
+    color: red;
+    font-size: 30px;
+}
+
